@@ -1,0 +1,56 @@
+.layout__area--left {
+    top: 25px !important;
+}
+
+.chart-controls-bar {
+    height: 30px;
+}
+
+.chart-controls-bar-buttons {
+    line-height: 30px;
+}
+
+.chart-controls-bar-buttons a {
+    padding: 4px 7px;
+    height: 30px;
+}
+
+.layout__area--top.header-chart-panel {
+    top: 0 !important;
+    z-index: 999;
+    width: 17% !important;
+    left: 83% !important;
+}
+
+.header-chart-panel .left {
+    text-align: right;
+}
+
+.header-chart-panel .group {
+    margin: 0;
+}
+
+.header-chart-panel .group.header-group-properties {
+    margin-left: 0;
+}
+
+
+/*._tv-dialog{*/
+
+
+/*z-index: 1110 !important;*/
+
+
+/*}*/
+
+.real-op>a:nth-child(2) {
+    color: #8b8c8e;
+    stroke: #8b8c8e;
+    fill: #8b8c8e;
+}
+
+.common-op>a:nth-child(1) {
+    color: #8b8c8e;
+    stroke: #8b8c8e;
+    fill: #8b8c8e;
+}
